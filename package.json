@@ -1,0 +1,19 @@
+{
+  "name": "web-expense",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/main.js",
+  "scripts": {
+    "test": "babel-node tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezekiel-da/web-expense.git"
+  },
+  "author": "NLV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezekiel-da/web-expense/issues"
+  },
+  "homepage": "https://github.com/ezekiel-da/web-expense#readme"
+}
